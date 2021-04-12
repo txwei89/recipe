@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <recipe>
+    <meal_name>GRILLED BASIL CHICKEN</meal_name>
+    <meal_image>https://www.spicesinc.com/images/Recipes/basilchick.jpg</meal_image>
+    <serve_number>3</serve_number>
+    <ingredients>
+      <content>¾ cup balsamic vinegar</content>
+    </ingredients>
+    <ingredients>
+      <content>¼ cup tightly packed fresh basil leaves</content>
+      <remark>gently rub produce under cold running water</remark>
+    </ingredients>
+    <ingredients>
+      <content>2 tbsp olive oil</content>
+    </ingredients>
+    <ingredients>
+      <content>1 garlic clove</content>
+      <remark>minced</remark>
+    </ingredients>
+    <ingredients>
+      <content>½ tsp salt</content>
+    </ingredients>
+    <ingredients>
+      <content>4 plum tomatoes</content>
+      <remark>scrubbed with clean vegetable brush under running water</remark>
+    </ingredients>
+    <ingredients>
+      <content>4 boneless skinless chicken breast halves</content>
+      <remark>4 ounces each</remark>
+    </ingredients>
+    <directions>
+      <content>Wash hands with soap and water</content>
+    </directions>
+    <directions>
+      <content>After washing basil and tomatoes, blot them dry with clean paper towel.</content>
+    </directions>
+    <directions>
+      <content>Using a clean cutting board, cut tomatoes into quarters.</content>
+    </directions>
+    <directions>
+      <content>For marinade, place first six ingredients in a blender. Cover and process until well blended.</content>
+    </directions>
+    <directions>
+      <content>Place chicken breasts in a shallow dish</content>
+      <remark>do not rinse raw poultry</remark>
+    </directions>
+    <directions>
+      <content>Cover with marinade. Cover dish. Refrigerate about 1 hour, turning occasionally.</content>
+      <remark>Wash dish after touching raw poultry.</remark>
+    </directions>
+    <directions>
+      <content>Wash hands with soap and water after handling uncooked chicken.</content>
+    </directions>
+    <directions>
+      <content>Place chicken on an oiled grill rack over medium heat.</content>
+      <remark>Do not reuse marinades used on raw foods.</remark>
+    </directions>
+    <directions>
+      <content>Grill chicken 4-6 minutes per side.</content>
+      <remark>Cook until internal temperature reaches 165 °F as measured with a food thermometer.</remark>
+    </directions>
+    <adapted_from></adapted_from>
+  </recipe>
+  <recipe>
+    <meal_name>MISO-MARINATED SHORT RIBS</meal_name>
+    <meal_image>https://thedomesticatedman.files.wordpress.com/2016/01/img_2021.jpg</meal_image>
+    <serve_number>4</serve_number>
+    <ingredients>
+      <content>3 tbsp red or yellow miso</content>
+    </ingredients>
+    <ingredients>
+      <content>3 tbsp mayonnaise</content>
+    </ingredients>
+    <ingredients>
+      <content>3 tbsp (or more) unseasoned rice vinegar</content>
+      <remark>divided</remark>
+    </ingredients>
+    <ingredients>
+      <content>1 ½ lbs thin cross-cut bone-in short ribs (flank-style)</content>
+    </ingredients>
+    <ingredients>
+      <content>Kosher salt</content>
+    </ingredients>
+    <ingredients>
+      <content>1 bunch small radishes</content>
+      <remark>scrubbed with clean vegetable brush under running water</remark>
+    </ingredients>
+    <ingredients>
+      <content>4 tsp vegetable oil</content>
+    </ingredients>
+    <ingredients>
+      <content>2 cups steamed rice</content>
+    </ingredients>
+    <ingredients>
+      <content>1 bunch watercress, tough stems removed and orange quote icon gently rubbed under cold running water</content>
+    </ingredients>
+    <ingredients>
+      <content>Sriracha or hot sauce (for serving)</content>
+    </ingredients>
+    <directions>
+      <content>Wash hands with soap and water. In small bowl, stir together miso, mayonnaise, and 2 tbsp vinegar. Place ribs on a rimmed baking sheet and season lightly with salt; orange quote icon do not rinse raw meat. Pour all but 2 tablespoons miso mixture over ribs; turn to coat. Set remaining miso mixture aside.</content>
+    </directions>
+    <directions>
+      <content>Thinly slice radishes and toss in a medium bowl with remaining 1 tbsp vinegar. Season with salt and toss again.</content>
+      <remark>do not reuse marinade used on raw meat.</remark>
+    </directions>
+    <directions>
+      <content>Heat a large heavy skillet, preferably cast iron, over medium-high. When pan is hot, add 2 tsp. oil and swirl to coat. Remove ribs from marinade</content>
+    </directions>
+    <directions>
+      <content>For marinade, place first six ingredients in a blender. Cover and process until well blended.</content>
+    </directions>
+    <directions>
+      <content>Wash hands with soap and water after handling uncooked meat. Add half of ribs to pan and cook without turning until underside is very dark brown and charred in spots, about 2 minutes. Turn ribs and cook until second side is golden brown, 1–2 minutes, and orange quote icon internal temperature reaches 145 °F on food thermometer. Transfer to a plate. Repeat with remaining 2 tsp. oil and remaining ribs. Let rest 5 minutes.</content>
+    </directions>
+    <directions>
+      <content>Season reserved miso mixture with Sriracha; adjust to taste. Add additional vinegar, if desired. Cut ribs crosswise into 2 or 3 pieces; serve over bowls of rice, topped with watercress and drained radishes and drizzled with spicy sauce.</content>
+    </directions>
+    <adapted_from>Bon Appetit magazine</adapted_from>
+  </recipe>
+  <recipe>
+    <meal_name>CANTALOUPE GAZPACHO</meal_name>
+    <meal_image>https://assets.bonappetit.com/photos/57ae09151b334044149759a2/master/w_1280%2Cc_limit/cantaloupe-gazpacho-6461.jpg</meal_image>
+    <serve_number>5</serve_number>
+    <ingredients>
+      <content>1 medium cantaloupe</content>
+      <remark>scrubbed with clean vegetable brush under running water, peeled, seeded and chopped</remark>
+    </ingredients>
+    <ingredients>
+      <content>1 small cucumber</content>
+      <remark>scrubbed with clean vegetable brush under running water, peeled and chopped</remark>
+    </ingredients>
+    <ingredients>
+      <content>2 tbsp chopped red onion</content>
+      <remark>gently rubbed under cold running water</remark>
+    </ingredients>
+    <ingredients>
+      <content>2 tsps kosher salt</content>
+    </ingredients>
+    <ingredients>
+      <content>1/3 cup water</content>
+    </ingredients>
+    <ingredients>
+      <content>½ cup extra virgin olive oil</content>
+    </ingredients>
+    <ingredients>
+      <content>Black pepper</content>
+      <remark>for seasoning</remark>
+    </ingredients>
+    <ingredients>
+      <content>Mint</content>
+      <remark>gently rubbed under cold running water and sliced, for topping</remark>
+    </ingredients>
+    <directions>
+      <content>Wash hands with soap and water. In blender, puree cantaloupe, cucumber, onion, salt and water until smooth, about 1 – 2 minutes.</content>
+    </directions>
+    <directions>
+      <content>With motor running, drizzle in olive oil. Sprinkle with freshly ground black pepper.</content>
+    </directions>
+    <directions>
+      <content>Serve gazpacho chilled, topped with mint slices.</content>
+    </directions>
+    <adapted_from>fightbac.com web site</adapted_from>
+  </recipe>
+</root>
